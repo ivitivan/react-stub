@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
+    "lint-js": "eslint ./src/components/**/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
